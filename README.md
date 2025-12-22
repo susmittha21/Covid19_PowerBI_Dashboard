@@ -1,13 +1,14 @@
 # Covid19_PowerBI_Dashboard
 Analysis done on specific attributes of the Covid19 Dataset as complex cleaning tasks were required (getting to understand PowerBI tools)
 
+![covid_dashboard](https://github.com/user-attachments/assets/4a51cf73-e249-493e-9089-44792a358c01)
 
 ## Project Overview
 This project presents an interactive Power BI dashboard built using
 COVID-19 dataset to analyze Total deaths , New cases ,Toatl cases.
 
 ##  Dataset
-- COVID-19 dataset provided during a Power BI workshop
+- COVID-19 dataset provided during a Power BI workshop (from kaggle)
 
 ## Tools & Technologies
 - Power BI
